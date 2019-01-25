@@ -1,0 +1,9 @@
+main.py  --- programa principal
+  util.py --- modulo que contiene funciones genericas
+  vardef.py --- modulo que contiene variables para la mayoria de las funciones
+  bashcontrol --- crea el bashScript para intercambiar variables entre Python y Fortran
+  elliptic_surface_grid --- genera la malla elliptic_surface_grid
+  math-deps --- contiene algunas dependencias matematicas
+  surface_grid --- administra todo el workflow de la Malla
+  surface_util --- contiene funciones auxiliares
+  visualizeGrid --- permite visualizar la malla generada en formato .p3d

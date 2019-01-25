@@ -1,0 +1,5 @@
+COMO USARSE
+
+desde la terminal se escribe
+
+python main.py {NOMBRE_DEL_ARCHIVO_INPUT} {NOMBRE_DEL_ARCHIVO_OUTPUT}
